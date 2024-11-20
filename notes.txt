@@ -1,0 +1,25 @@
+What should the project look like ?
+For now the idea is to create a ML model that is profitable in backtrading thats the global idea
+
+How to find a good strategy ? Can I build ml model to find signals of good trades ?
+
+
+Steps:
+Gather data for all the SP-500 stocks from 2010 onwards
+Or we could also look at the stocks with the highest volume but they'll probably be very similar.
+
+Build more features SMA, remember all the things used previously.
+
+Try and build a few models and backtest them and optimise for roi 
+
+Implement best model to a real time trading account with little money to see how it performs.
+
+
+Ideas:
+
+Stocks vs Forex vs Crypto
+
+Which one is the easiest to get the data ?
+
+
+TA or Fundamental analysis for stocks
