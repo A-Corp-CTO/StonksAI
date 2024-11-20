@@ -1,0 +1,2 @@
+# StonksAI
+Trading Bot
